@@ -73,8 +73,6 @@ prodigy infotech DS_03
 4. Average customer age is *~41 years*
 5. Decision Tree achieved *85% accuracy* on this dataset
 
-🔗 Connect With Me
-💼 LinkedIn: pranathi-bhamidipati
-💻 GitHub: pranathib006
+
 📢 Hashtags
 #ProdigyInfoTech #DataScience #PowerBI #DataVisualization #Internship #Task2 #TitanicEDA #EDA #SurvivalAnalysis #DataAnalytics #BusinessIntelligence #BTechStudent #GitHub
