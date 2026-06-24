@@ -74,5 +74,7 @@ prodigy infotech DS_03
 5. Decision Tree achieved *85% accuracy* on this dataset
 
 
-📢 Hashtags
-#ProdigyInfoTech #DataScience #PowerBI #DataVisualization #Internship #Task2 #TitanicEDA #EDA #SurvivalAnalysis #DataAnalytics #BusinessIntelligence #BTechStudent #GitHub
+
+### 📢 Hashtags
+
+`#ProdigyInfoTech` `#DataScience` `#PowerBI` `#DataVisualization` `#Internship` `#Task2` `#TitanicEDA` `#EDA` `#SurvivalAnalysis` `#DataAnalytics` `#BusinessIntelligence` `#BTechStudent` `#GitHub`
